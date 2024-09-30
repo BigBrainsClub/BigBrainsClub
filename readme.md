@@ -4,5 +4,5 @@
 <div>
 
 <a href="lolzteam-url">
-    <img src="https://lolz.live/favicon.svg?4" alt="lolzteam"/>
+    <img src="https://lolz.live/favicon.svg" alt="lolzteam"/>
 </a>
