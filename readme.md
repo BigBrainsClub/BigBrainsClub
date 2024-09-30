@@ -35,5 +35,5 @@
 
 
 ### Моя статистика по github
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=molodost-vnutri&theme=aura_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=molodost-vnutri&theme=aura_dark"/>&nbsp;
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=molodost-vnutri&theme=aura_dark"/>
