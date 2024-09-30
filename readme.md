@@ -2,3 +2,7 @@
     <h1>Здарова, как дела?</h1>
     <h3>Rust/Python разработчик из России</h3>
 <div>
+
+<a href="lolzteam-url">
+    <img src="https://lolz.live/favicon.svg?4" alt="lolzteam"/>
+</a>
