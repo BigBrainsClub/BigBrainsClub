@@ -32,3 +32,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" width="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" width="40"/>&nbsp;
+
+
+### Моя статистика по github
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=molodost-vnutri&theme=aura_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=molodost-vnutri&theme=aura_dark"/>
