@@ -9,7 +9,7 @@
 
 
 ###Обо мне
-    - :compass: Живу: в России
-    - :computer: Стек: Rust/Python
-    - :high_brightness: Хобби: Музыка, программирование (С играми уже потихоньку завязываю:smiley:)
-    - :firecracker: Вредные привычки: Курю
+- :compass: Живу: в России
+- :computer: Стек: Rust/Python
+- :high_brightness: Хобби: Музыка, программирование (С играми уже потихоньку завязываю:smiley:)
+- :firecracker: Вредные привычки: Курю
