@@ -10,7 +10,7 @@
 
 ### Обо мне
 - :compass: Живу: в России
-- :computer: Стек: Rust/Python
+- :computer: Языки: Rust/Python
 - :high_brightness: Хобби: Музыка, программирование (С играми уже потихоньку завязываю:smiley:)
 - :firecracker: Вредные привычки: Курю
 
